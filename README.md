@@ -33,4 +33,4 @@ React • React Native • FastAPI • PostgreSQL • Git & GitHub
 
 ### 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/usasee-chaudhuri)
+[LinkedIn](https://www.linkedin.com/in/usasee-chaudhuri/)
