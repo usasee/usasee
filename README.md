@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Usasee Chaudhuri! 👋
 
-<!--
-**usasee/usasee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🤖 Aspiring AI Engineer | 💻 Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing my Bachelor's in Computer Applications and
+exploring the world of Artificial Intelligence, software development,
+and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Currently pursuing BCA
+- 🤖 Aspiring AI Engineer
+- 💻 Interested in AI, backend development, and software engineering
+- 🌱 Currently learning and building projects with Python, Java, and web technologies
+- 🚀 Always curious about learning new technologies and building things
+
+### 🛠️ Technologies
+
+**Languages:**  
+Python • Java • C • JavaScript • PHP • SQL
+
+**Technologies:**  
+React • React Native • FastAPI • PostgreSQL • Git & GitHub
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Backend Development
+- Data Analytics
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/usasee-chaudhuri)
